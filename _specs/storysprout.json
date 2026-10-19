@@ -1,0 +1,134 @@
+{
+  "slug": "storysprout",
+  "name": "StorySprout",
+  "developer": "Nhat Nguyen (NHT Solutions)",
+  "email": "solutionsnht@gmail.com",
+  "updated": "2026-10-19",
+  "accent": "#527A59",
+  "summary": {
+    "en": "StorySprout collects no personal data. Your child's progress stays on the device and is never sent to us or anyone else.",
+    "vi": "StorySprout không thu thập dữ liệu cá nhân. Tiến độ của bé chỉ nằm trên thiết bị, không gửi cho chúng tôi hay bất kỳ ai."
+  },
+  "privacy": {
+    "en": [
+      [
+        "Who we are",
+        "StorySprout is an interactive English picture-book app for children aged 6 to 8, published by Nhat Nguyen (NHT Solutions). This policy covers the StorySprout apps for iPhone, iPad and Android."
+      ],
+      [
+        "What stays on the device",
+        "Learning progress (which scenes and activities were done, whether an answer was right on the first try, whether a hint was used), stickers, review history and settings are stored in a local database on the device. We never receive this information and the app works fully offline."
+      ],
+      [
+        "What we do not collect",
+        "The app has no accounts and does not ask for a name, birthday, email address, photos, voice, location, contacts or advertising identifier. It does not use the camera or microphone. There are no ads, and no analytics, tracking or advertising SDKs."
+      ],
+      [
+        "Purchases",
+        "The current version has no in-app purchases and does not connect to any payment service. If purchases are added in a future version, they will be processed by the App Store or Google Play, this policy will be updated before that version is released, and learning data will still not be shared."
+      ],
+      [
+        "Children's privacy",
+        "StorySprout is made for children. We do not knowingly collect personal information from anyone, including children under 13, and nothing in the app sends data off the device. The child area has no outside links, purchases or ads. The grown-up area is behind a simple question; that question keeps children from wandering in and is not age verification."
+      ],
+      [
+        "Sharing",
+        "We do not sell, rent or share any data, because we do not collect any."
+      ],
+      [
+        "Deleting data",
+        "Parents > \"Reset progress on this device\" deletes all learning data on the device. Uninstalling the app deletes it too."
+      ],
+      [
+        "Pictures and voice",
+        "The illustrations were made with AI image tools and the narration is a computer-generated voice (Kokoro TTS). Both were created in advance; the app does not use AI or send anything to an AI service while your child plays."
+      ],
+      [
+        "Changes",
+        "If this policy changes, we will update this page and the policy shown inside the app, and change the date above."
+      ]
+    ],
+    "vi": [
+      [
+        "Chúng tôi là ai",
+        "StorySprout là app truyện tranh tiếng Anh tương tác cho trẻ 6–8 tuổi, do Nhat Nguyen (NHT Solutions) phát hành. Chính sách này áp dụng cho StorySprout trên iPhone, iPad và Android."
+      ],
+      [
+        "Dữ liệu lưu trên máy",
+        "Tiến độ học (cảnh và hoạt động đã làm, đúng ngay lần đầu hay không, có dùng gợi ý không), sticker, lịch sử ôn tập và cài đặt được lưu trong cơ sở dữ liệu trên thiết bị. Chúng tôi không nhận các dữ liệu này; app chạy hoàn toàn offline."
+      ],
+      [
+        "Không thu thập",
+        "App không có tài khoản, không hỏi tên, ngày sinh, email, ảnh, giọng nói, vị trí, danh bạ hay mã quảng cáo; không dùng camera và micro. Không quảng cáo, không SDK phân tích, theo dõi hay quảng cáo."
+      ],
+      [
+        "Mua hàng",
+        "Phiên bản hiện tại không có mua hàng trong app và không kết nối dịch vụ thanh toán nào. Nếu sau này có mua hàng, giao dịch do App Store hoặc Google Play xử lý, chính sách này sẽ được cập nhật trước khi phát hành phiên bản đó, và dữ liệu học vẫn không được chia sẻ."
+      ],
+      [
+        "Quyền riêng tư của trẻ em",
+        "StorySprout làm cho trẻ em. Chúng tôi không thu thập thông tin cá nhân của bất kỳ ai, kể cả trẻ dưới 13 tuổi, và app không gửi dữ liệu ra khỏi thiết bị. Khu vực của trẻ không có liên kết ra ngoài, mua hàng hay quảng cáo. Khu phụ huynh nằm sau một câu hỏi đơn giản; câu hỏi này giúp trẻ không vô tình vào, không phải xác minh tuổi."
+      ],
+      [
+        "Chia sẻ",
+        "Chúng tôi không bán, cho thuê hay chia sẻ dữ liệu nào, vì chúng tôi không thu thập dữ liệu."
+      ],
+      [
+        "Xóa dữ liệu",
+        "Khu phụ huynh > \"Xóa tiến độ trên máy\" xóa toàn bộ dữ liệu học trên thiết bị. Gỡ app cũng xóa chúng."
+      ],
+      [
+        "Hình và giọng đọc",
+        "Tranh minh họa được tạo bằng công cụ AI tạo ảnh; giọng đọc là giọng máy (Kokoro TTS). Cả hai được tạo sẵn khi làm app; app không dùng AI hay gửi gì tới dịch vụ AI khi bé chơi."
+      ],
+      [
+        "Thay đổi",
+        "Khi chính sách thay đổi, chúng tôi cập nhật trang này và chính sách trong app, đồng thời đổi ngày ở trên."
+      ]
+    ]
+  },
+  "support": {
+    "en": {
+      "intro": "Questions, a bug, or a word that sounds wrong? Email us and we usually reply within two working days.",
+      "faq": [
+        [
+          "Does StorySprout need the internet?",
+          "No. All 12 stories, pictures and audio are inside the app and work offline."
+        ],
+        [
+          "How do I open the grown-up area?",
+          "Tap \"For parents\" on the welcome screen and answer the question."
+        ],
+        [
+          "How do I start over?",
+          "Grown-up area > Reset progress on this device. This clears progress, stickers and review history."
+        ],
+        [
+          "Is there a subscription or in-app purchase?",
+          "No. This version includes all 12 stories with no purchases and no ads."
+        ]
+      ]
+    },
+    "vi": {
+      "intro": "Có câu hỏi, gặp lỗi hoặc thấy từ nào đọc chưa đúng? Gửi email cho chúng tôi, thường trả lời trong hai ngày làm việc.",
+      "faq": [
+        [
+          "StorySprout có cần mạng không?",
+          "Không. Cả 12 câu chuyện, hình và âm thanh có sẵn trong app, chạy offline."
+        ],
+        [
+          "Vào khu phụ huynh thế nào?",
+          "Chạm \"For parents\" ở màn hình chào rồi trả lời câu hỏi."
+        ],
+        [
+          "Muốn học lại từ đầu?",
+          "Khu phụ huynh > Xóa tiến độ trên máy. Thao tác này xóa tiến độ, sticker và lịch sử ôn tập."
+        ],
+        [
+          "Có thuê bao hay mua trong app không?",
+          "Không. Bản này có đủ 12 câu chuyện, không mua hàng, không quảng cáo."
+        ]
+      ]
+    }
+  }
+}
