@@ -1,0 +1,150 @@
+{
+  "slug": "doodletales",
+  "name": "DoodleTales",
+  "developer": "Nhat Nguyen (NHT Solutions)",
+  "email": "solutionsnht@gmail.com",
+  "updated": "2026-10-20",
+  "accent": "#3D7B77",
+  "summary": {
+    "en": "DoodleTales collects no personal data. Children draw on paper, and progress stays on the device - it is never sent to us or anyone else.",
+    "vi": "DoodleTales không thu thập dữ liệu cá nhân. Bé vẽ trên giấy, tiến độ chỉ nằm trên thiết bị, không gửi cho chúng tôi hay bất kỳ ai."
+  },
+  "privacy": {
+    "en": [
+      [
+        "Who we are",
+        "DoodleTales is a step-by-step drawing app for children aged 5 to 8, published by Nhat Nguyen (NHT Solutions). Children draw on real paper while the app shows the steps and tells a short story. This policy covers the DoodleTales apps for iPhone, iPad and Android."
+      ],
+      [
+        "Drawing happens on paper",
+        "There is no camera, scanner, photo upload or drawing canvas. The app never sees, stores or judges a child's drawing."
+      ],
+      [
+        "What stays on the device",
+        "Which stories were started, the step reached, the endings chosen, saved chapters and settings are stored in a local database on the device. We never receive this information and the app works fully offline."
+      ],
+      [
+        "What we do not collect",
+        "The app has no accounts and does not ask for a name, birthday, email address, photos, voice, location, contacts or advertising identifier. It does not use the camera or microphone. There are no ads, and no analytics, tracking or advertising SDKs."
+      ],
+      [
+        "Purchases",
+        "The current version has no in-app purchases and does not connect to any payment service. If purchases are added in a future version, they will be processed by the App Store or Google Play, this policy will be updated before that version is released, and progress will still not be shared."
+      ],
+      [
+        "Children's privacy",
+        "DoodleTales is made for children. We do not knowingly collect personal information from anyone, including children under 13, and nothing in the app sends data off the device. The child area has no outside links, purchases or ads. The grown-up area is behind a simple question; that question keeps children from wandering in and is not age verification."
+      ],
+      [
+        "Sharing",
+        "We do not sell, rent or share any data, because we do not collect any."
+      ],
+      [
+        "Deleting data",
+        "Grown-ups > \"Delete learning data\" removes progress, finished stories and saved chapters on the device. Uninstalling the app deletes everything."
+      ],
+      [
+        "Pictures and voice",
+        "The story pictures were made with AI image tools, the step drawings are vector art made with code, and the narration is a computer-generated voice (Kokoro TTS). All were created in advance; the app does not use AI or send anything to an AI service while your child plays."
+      ],
+      [
+        "Changes",
+        "If this policy changes, we will update this page and the policy shown inside the app, and change the date above."
+      ]
+    ],
+    "vi": [
+      [
+        "Chúng tôi là ai",
+        "DoodleTales là app hướng dẫn vẽ từng bước cho trẻ 5–8 tuổi, do Nhat Nguyen (NHT Solutions) phát hành. Bé vẽ trên giấy thật, app hiển thị các bước và kể một câu chuyện ngắn. Chính sách này áp dụng cho DoodleTales trên iPhone, iPad và Android."
+      ],
+      [
+        "Vẽ trên giấy",
+        "App không có camera, máy quét, tải ảnh lên hay khung vẽ. App không bao giờ nhìn, lưu hay chấm bức vẽ của bé."
+      ],
+      [
+        "Dữ liệu lưu trên máy",
+        "Truyện đã bắt đầu, bước đang vẽ, cái kết đã chọn, các chương đã lưu và cài đặt được lưu trong cơ sở dữ liệu trên thiết bị. Chúng tôi không nhận các dữ liệu này; app chạy hoàn toàn offline."
+      ],
+      [
+        "Không thu thập",
+        "App không có tài khoản, không hỏi tên, ngày sinh, email, ảnh, giọng nói, vị trí, danh bạ hay mã quảng cáo; không dùng camera và micro. Không quảng cáo, không SDK phân tích, theo dõi hay quảng cáo."
+      ],
+      [
+        "Mua hàng",
+        "Phiên bản hiện tại không có mua hàng trong app và không kết nối dịch vụ thanh toán nào. Nếu sau này có mua hàng, giao dịch do App Store hoặc Google Play xử lý, chính sách này sẽ được cập nhật trước khi phát hành phiên bản đó, và tiến độ vẫn không được chia sẻ."
+      ],
+      [
+        "Quyền riêng tư của trẻ em",
+        "DoodleTales làm cho trẻ em. Chúng tôi không thu thập thông tin cá nhân của bất kỳ ai, kể cả trẻ dưới 13 tuổi, và app không gửi dữ liệu ra khỏi thiết bị. Khu vực của trẻ không có liên kết ra ngoài, mua hàng hay quảng cáo. Khu phụ huynh nằm sau một câu hỏi đơn giản; câu hỏi này giúp trẻ không vô tình vào, không phải xác minh tuổi."
+      ],
+      [
+        "Chia sẻ",
+        "Chúng tôi không bán, cho thuê hay chia sẻ dữ liệu nào, vì chúng tôi không thu thập dữ liệu."
+      ],
+      [
+        "Xóa dữ liệu",
+        "Grown-ups > \"Delete learning data\" xóa tiến độ, truyện đã hoàn thành và các chương đã lưu trên thiết bị. Gỡ app sẽ xóa mọi thứ."
+      ],
+      [
+        "Hình và giọng đọc",
+        "Tranh truyện được tạo bằng công cụ AI tạo ảnh, hình các bước vẽ là hình vector dựng bằng code, giọng đọc là giọng máy (Kokoro TTS). Tất cả được tạo sẵn khi làm app; app không dùng AI hay gửi gì tới dịch vụ AI khi bé dùng."
+      ],
+      [
+        "Thay đổi",
+        "Khi chính sách thay đổi, chúng tôi cập nhật trang này và chính sách trong app, đồng thời đổi ngày ở trên."
+      ]
+    ]
+  },
+  "support": {
+    "en": {
+      "intro": "Questions, a bug, or a drawing step that could be clearer? Email us and we usually reply within two working days.",
+      "faq": [
+        [
+          "Does DoodleTales need the internet?",
+          "No. All 18 stories, drawing steps, pictures and audio are inside the app and work offline."
+        ],
+        [
+          "Does my child draw on the screen?",
+          "No. Children draw on real paper with crayons or pencils; the app only shows the steps and the story."
+        ],
+        [
+          "How do I open the grown-up area?",
+          "Tap the lock button \"Grown-ups\" at the top of the library and answer the question."
+        ],
+        [
+          "How do I start over?",
+          "Grown-up area > Delete learning data. This clears progress, finished stories and saved chapters."
+        ],
+        [
+          "Is there a subscription or in-app purchase?",
+          "No. This version includes all 18 stories with no purchases and no ads."
+        ]
+      ]
+    },
+    "vi": {
+      "intro": "Có câu hỏi, gặp lỗi hoặc thấy bước vẽ nào chưa rõ? Gửi email cho chúng tôi, thường trả lời trong hai ngày làm việc.",
+      "faq": [
+        [
+          "DoodleTales có cần mạng không?",
+          "Không. Cả 18 câu chuyện, các bước vẽ, hình và âm thanh có sẵn trong app, chạy offline."
+        ],
+        [
+          "Bé có vẽ trên màn hình không?",
+          "Không. Bé vẽ trên giấy thật bằng bút sáp hoặc bút chì; app chỉ hiển thị các bước và câu chuyện."
+        ],
+        [
+          "Vào khu phụ huynh thế nào?",
+          "Chạm nút khóa \"Grown-ups\" ở đầu thư viện rồi trả lời câu hỏi."
+        ],
+        [
+          "Muốn làm lại từ đầu?",
+          "Khu phụ huynh > Delete learning data. Thao tác này xóa tiến độ, truyện đã hoàn thành và các chương đã lưu."
+        ],
+        [
+          "Có thuê bao hay mua trong app không?",
+          "Không. Bản này có đủ 18 câu chuyện, không mua hàng, không quảng cáo."
+        ]
+      ]
+    }
+  }
+}
