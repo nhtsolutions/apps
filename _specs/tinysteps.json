@@ -3,7 +3,7 @@
   "name": "TinySteps",
   "developer": "Nhat Nguyen (NHT Solutions)",
   "email": "solutionsnht@gmail.com",
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "accent": "#4B6B50",
   "summary": {
     "en": "TinySteps collects no personal data. Your routines and history stay on the device and are never sent to us or anyone else.",
@@ -13,7 +13,7 @@
     "en": [
       [
         "Who we are",
-        "TinySteps is a picture-story app for everyday routines, made for children aged 4 to 6 and their grown-ups, published by Nhat Nguyen (NHT Solutions). This policy covers the TinySteps apps for iPhone, iPad and Android."
+        "TinySteps is a picture-story app for everyday routines, made for children up to 5 (preschoolers) to use with a grown-up, published by Nhat Nguyen (NHT Solutions). This policy covers the TinySteps apps for iPhone, iPad and Android."
       ],
       [
         "What stays on the device",
@@ -24,12 +24,12 @@
         "The app has no accounts and does not ask for a name, birthday, email address, photos, voice, location, contacts or advertising identifier. It does not use the camera or microphone. There are no ads, and no analytics, tracking or advertising SDKs."
       ],
       [
-        "Purchases",
-        "The current version has no in-app purchases and does not connect to any payment service. If purchases are added in a future version, they will be processed by the App Store or Google Play, this policy will be updated before that version is released, and routines and history will still not be shared."
+        "Payments",
+        "TinySteps is free and everything is included. The app does not connect to any store or payment service."
       ],
       [
         "Children's privacy",
-        "TinySteps is made for young children with a grown-up. We do not knowingly collect personal information from anyone, including children under 13, and nothing in the app sends data off the device. The child area has no outside links, purchases or ads. The grown-up area and the routine editor are behind a simple question; that question keeps children from wandering in and is not age verification."
+        "TinySteps is made for young children with a grown-up. We do not knowingly collect personal information from anyone, including children under 13, and nothing in the app sends data off the device. The child area has no outside links, payments or ads. The grown-up area and the routine editor are behind a simple question; that question keeps children from wandering in and is not age verification."
       ],
       [
         "Sharing",
@@ -51,7 +51,7 @@
     "vi": [
       [
         "Chúng tôi là ai",
-        "TinySteps là app truyện tranh cho thói quen hằng ngày, dành cho trẻ 4–6 tuổi cùng người lớn, do Nhat Nguyen (NHT Solutions) phát hành. Chính sách này áp dụng cho TinySteps trên iPhone, iPad và Android."
+        "TinySteps là app truyện tranh cho thói quen hằng ngày, dành cho trẻ đến 5 tuổi (lứa mầm non) dùng cùng người lớn, do Nhat Nguyen (NHT Solutions) phát hành. Chính sách này áp dụng cho TinySteps trên iPhone, iPad và Android."
       ],
       [
         "Dữ liệu lưu trên máy",
@@ -62,12 +62,12 @@
         "App không có tài khoản, không hỏi tên, ngày sinh, email, ảnh, giọng nói, vị trí, danh bạ hay mã quảng cáo; không dùng camera và micro. Không quảng cáo, không SDK phân tích, theo dõi hay quảng cáo."
       ],
       [
-        "Mua hàng",
-        "Phiên bản hiện tại không có mua hàng trong app và không kết nối dịch vụ thanh toán nào. Nếu sau này có mua hàng, giao dịch do App Store hoặc Google Play xử lý, chính sách này sẽ được cập nhật trước khi phát hành phiên bản đó, và thói quen, lịch sử vẫn không được chia sẻ."
+        "Thanh toán",
+        "TinySteps miễn phí và có sẵn mọi nội dung. App không kết nối với cửa hàng hay dịch vụ thanh toán nào."
       ],
       [
         "Quyền riêng tư của trẻ em",
-        "TinySteps làm cho trẻ nhỏ dùng cùng người lớn. Chúng tôi không thu thập thông tin cá nhân của bất kỳ ai, kể cả trẻ dưới 13 tuổi, và app không gửi dữ liệu ra khỏi thiết bị. Khu vực của trẻ không có liên kết ra ngoài, mua hàng hay quảng cáo. Khu phụ huynh và trình tạo thói quen nằm sau một câu hỏi đơn giản; câu hỏi này giúp trẻ không vô tình vào, không phải xác minh tuổi."
+        "TinySteps làm cho trẻ nhỏ dùng cùng người lớn. Chúng tôi không thu thập thông tin cá nhân của bất kỳ ai, kể cả trẻ dưới 13 tuổi, và app không gửi dữ liệu ra khỏi thiết bị. Khu vực của trẻ không có liên kết ra ngoài, thanh toán hay quảng cáo. Khu phụ huynh và trình tạo thói quen nằm sau một câu hỏi đơn giản; câu hỏi này giúp trẻ không vô tình vào, không phải xác minh tuổi."
       ],
       [
         "Chia sẻ",
@@ -108,8 +108,8 @@
           "Yes. Tap Pause on a step card; the routine continues from the same step from Home, even after the app is closed."
         ],
         [
-          "Is there a subscription or in-app purchase?",
-          "No. This version includes everything with no purchases and no ads."
+          "Does anything cost extra?",
+          "No. Everything is included, and there are no ads."
         ]
       ]
     },
@@ -133,8 +133,8 @@
           "Được. Chạm Pause trên thẻ bước; từ Home có thể tiếp tục đúng bước đó, kể cả khi đã tắt app."
         ],
         [
-          "Có thuê bao hay mua trong app không?",
-          "Không. Bản này có đủ mọi nội dung, không mua hàng, không quảng cáo."
+          "Có phải trả thêm gì không?",
+          "Không. Mọi nội dung đều có sẵn, không quảng cáo."
         ]
       ]
     }
