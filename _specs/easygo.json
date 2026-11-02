@@ -1,0 +1,150 @@
+{
+  "slug": "easygo",
+  "name": "EasyGo Tài xế",
+  "developer": "Nhat Nguyen (NHT Solutions)",
+  "email": "solutionsnht@gmail.com",
+  "updated": "2026-11-02",
+  "accent": "#0460BD",
+  "summary": {
+    "en": "EasyGo Tài xế is the driver app of the EasyGo fleet-management service. It collects only what your transport company needs to dispatch trips and settle expenses and pay. Nothing is sold, used for ads or tracked. You can delete your account inside the app.",
+    "vi": "EasyGo Tài xế là ứng dụng cho tài xế của dịch vụ quản lý đội xe EasyGo. App chỉ thu thập dữ liệu mà đơn vị vận tải của bạn cần để điều xe, duyệt chi phí và tính lương. Không bán dữ liệu, không quảng cáo, không theo dõi. Bạn có thể xoá tài khoản ngay trong app."
+  },
+  "privacy": {
+    "en": [
+      [
+        "Who we are",
+        "EasyGo Tài xế (\"the app\") is published by Nhat Nguyen (NHT Solutions). It is the driver app of EasyGo, a fleet-management service that container trucking companies (\"your company\") use to manage tractors, trailers, routes, drivers, dispatch orders, trip expenses and payroll. Your company decides how your data is used for its business; NHT Solutions runs the EasyGo servers on its behalf. This policy covers the app for iPhone and Android."
+      ],
+      [
+        "Data we collect and why",
+        "Account: full name, phone number, email address (your sign-in name) and password (stored only as a one-way hash). Driver profile: driving licence class and expiry date, and a citizen ID number if your company enters it. Trips: the dispatch orders assigned to you and each status update you make (time and optional note). Trip expenses: type, amount, litres of fuel, date, note and the receipt photo you attach. Salary advances: amount and reason. Notifications sent to you, and the push-notification token of your device if you allow notifications. All of it is used only to run the service for you and your company: assigning trips, approving expenses and advances, calculating pay and reminding you about licence expiry."
+      ],
+      [
+        "Camera, photos and location",
+        "The camera and photo library are used only when you tap \"Chụp ảnh\" (take photo) or \"Chọn từ thư viện\" (choose from library) to attach a receipt; only the photo you pick is uploaded. The app does not read your location. \"Mở bản đồ\" (open map) simply hands the pickup or drop-off address to your maps app."
+      ],
+      [
+        "Who can see your data",
+        "Dispatchers and managers of your company, through the EasyGo web admin. NHT Solutions, only to operate, secure and support the service. Push notifications are delivered through Expo's push service and Apple Push Notification service / Firebase Cloud Messaging, which receive the notification text and your device token. We do not sell or rent data, show ads, or use tracking, advertising or analytics SDKs, and we do not share data with anyone else unless the law requires it."
+      ],
+      [
+        "Storage and security",
+        "Data is stored on the EasyGo server and always travels over HTTPS. Passwords are hashed. Your sign-in session is kept by your phone's system networking and is removed when you sign out or delete your account."
+      ],
+      [
+        "Deleting your account",
+        "In the app: Tài khoản (Account) > Xoá tài khoản (Delete account), then enter your password. This immediately and permanently deletes your login account (email, password and phone number on the account), your notifications and your device tokens, and signs you out everywhere. If you have no trips, expenses or advances yet, your driver profile is deleted too. If you do, your company keeps the business records (dispatch orders, expenses with receipt photos, advances, payroll and the driver profile it manages) for as long as Vietnamese accounting and labour rules require; they are no longer linked to any login. Ask your company, or email us, to erase those records once they no longer need to be kept."
+      ],
+      [
+        "Your rights",
+        "You can see your profile in the app (Tài khoản). To correct it, contact your company's dispatcher. For any other request about your data, email solutionsnht@gmail.com and we will work with your company to answer within 30 days."
+      ],
+      [
+        "Children",
+        "The app is for professional truck drivers, who must hold a driving licence. It is not intended for children and we do not knowingly collect data from anyone under 18."
+      ],
+      [
+        "Changes",
+        "If this policy changes, we will update this page and change the date above. Important changes will also be announced in the app."
+      ]
+    ],
+    "vi": [
+      [
+        "Chúng tôi là ai",
+        "EasyGo Tài xế (\"ứng dụng\") do Nhat Nguyen (NHT Solutions) phát hành. Đây là app dành cho tài xế của EasyGo, dịch vụ quản lý đội xe mà các đơn vị vận tải container (\"đơn vị của bạn\") dùng để quản lý đầu kéo, rơ moóc, tuyến, tài xế, lệnh điều xe, chi phí chuyến và bảng lương. Đơn vị của bạn quyết định việc dùng dữ liệu cho hoạt động kinh doanh; NHT Solutions vận hành máy chủ EasyGo thay mặt đơn vị. Chính sách này áp dụng cho app trên iPhone và Android."
+      ],
+      [
+        "Dữ liệu thu thập và mục đích",
+        "Tài khoản: họ tên, số điện thoại, email (tên đăng nhập) và mật khẩu (chỉ lưu dạng băm một chiều). Hồ sơ tài xế: hạng và hạn bằng lái, số CCCD nếu đơn vị nhập. Chuyến: các lệnh điều xe giao cho bạn và mỗi lần bạn cập nhật trạng thái (thời điểm, ghi chú nếu có). Chi phí chuyến: loại, số tiền, số lít dầu, ngày, ghi chú và ảnh hóa đơn bạn đính kèm. Ứng lương: số tiền và lý do. Thông báo gửi cho bạn và mã nhận thông báo đẩy của máy (nếu bạn cho phép). Tất cả chỉ dùng để vận hành dịch vụ cho bạn và đơn vị: giao chuyến, duyệt chi phí và phiếu ứng, tính lương, nhắc hạn bằng lái."
+      ],
+      [
+        "Camera, ảnh và vị trí",
+        "Camera và thư viện ảnh chỉ được dùng khi bạn chạm \"Chụp ảnh\" hoặc \"Chọn từ thư viện\" để đính kèm hóa đơn; chỉ ảnh bạn chọn được tải lên. App không đọc vị trí của bạn. Nút \"Mở bản đồ\" chỉ chuyển địa chỉ điểm lấy/trả hàng sang ứng dụng bản đồ."
+      ],
+      [
+        "Ai xem được dữ liệu",
+        "Điều độ và quản lý của đơn vị bạn, qua trang quản trị web EasyGo. NHT Solutions, chỉ để vận hành, bảo mật và hỗ trợ dịch vụ. Thông báo đẩy được gửi qua dịch vụ push của Expo và Apple Push Notification service / Firebase Cloud Messaging; các dịch vụ này nhận nội dung thông báo và mã thiết bị. Chúng tôi không bán hay cho thuê dữ liệu, không quảng cáo, không dùng SDK theo dõi, quảng cáo hay phân tích, và không chia sẻ dữ liệu cho ai khác trừ khi pháp luật yêu cầu."
+      ],
+      [
+        "Lưu trữ và bảo mật",
+        "Dữ liệu lưu trên máy chủ EasyGo và luôn truyền qua HTTPS. Mật khẩu được băm. Phiên đăng nhập do hệ thống mạng của điện thoại giữ và bị xoá khi bạn đăng xuất hoặc xoá tài khoản."
+      ],
+      [
+        "Xoá tài khoản",
+        "Trong app: Tài khoản > Xoá tài khoản, rồi nhập mật khẩu. Thao tác này xoá ngay và vĩnh viễn tài khoản đăng nhập (email, mật khẩu, số điện thoại trên tài khoản), thông báo và mã thiết bị của bạn, đồng thời đăng xuất trên mọi máy. Nếu bạn chưa có chuyến, chi phí hay phiếu ứng nào, hồ sơ tài xế cũng bị xoá. Nếu đã có, đơn vị vẫn giữ chứng từ kinh doanh (lệnh điều xe, chi phí kèm ảnh hóa đơn, phiếu ứng, bảng lương và hồ sơ tài xế do đơn vị quản lý) trong thời hạn quy định kế toán, lao động yêu cầu; các chứng từ này không còn gắn với tài khoản đăng nhập nào. Hãy đề nghị đơn vị hoặc gửi email cho chúng tôi để xoá khi không còn phải lưu."
+      ],
+      [
+        "Quyền của bạn",
+        "Bạn xem hồ sơ của mình trong app (mục Tài khoản). Muốn sửa, hãy liên hệ điều độ của đơn vị. Mọi yêu cầu khác về dữ liệu, gửi email tới solutionsnht@gmail.com; chúng tôi phối hợp với đơn vị để trả lời trong 30 ngày."
+      ],
+      [
+        "Trẻ em",
+        "App dành cho tài xế chuyên nghiệp có bằng lái, không dành cho trẻ em; chúng tôi không cố ý thu thập dữ liệu của người dưới 18 tuổi."
+      ],
+      [
+        "Thay đổi",
+        "Khi chính sách thay đổi, chúng tôi cập nhật trang này và ngày ở trên. Thay đổi quan trọng cũng được thông báo trong app."
+      ]
+    ]
+  },
+  "support": {
+    "en": {
+      "intro": "Questions or a problem with the app? Email us and we usually reply within two working days. For your trips, pay or account approval, your company's dispatcher is the fastest contact.",
+      "faq": [
+        [
+          "How do I get an account?",
+          "Tap \"Đăng ký tài xế\" (Register as a driver) on the sign-in screen. Your transport company approves the request on the EasyGo web admin, then you can sign in. Your dispatcher can also create an account for you."
+        ],
+        [
+          "I forgot my password.",
+          "Ask your company's dispatcher to reset it, then change it in Tài khoản > Đổi mật khẩu (Account > Change password)."
+        ],
+        [
+          "I can't see any orders.",
+          "Orders appear once a dispatcher assigns them to you. Pull down on \"Lệnh của tôi\" (My orders) to refresh, and check the status filter is set to \"Tất cả\" (All)."
+        ],
+        [
+          "How do I submit a trip expense?",
+          "Open the order, tap \"Khai báo chi phí\" (Add expense), choose the type, enter the amount and attach a photo of the receipt."
+        ],
+        [
+          "Notifications don't arrive.",
+          "Allow notifications for EasyGo in your phone's Settings. You can always read them in the app under \"Thông báo\" (Notifications)."
+        ],
+        [
+          "How do I delete my account?",
+          "Tài khoản > Xoá tài khoản (Account > Delete account), then enter your password. See the privacy policy for exactly what is deleted and what your company keeps."
+        ]
+      ]
+    },
+    "vi": {
+      "intro": "Có câu hỏi hoặc gặp lỗi khi dùng app? Gửi email cho chúng tôi, thường trả lời trong hai ngày làm việc. Việc về chuyến, lương hay duyệt tài khoản, liên hệ điều độ của đơn vị sẽ nhanh nhất.",
+      "faq": [
+        [
+          "Làm sao để có tài khoản?",
+          "Chạm \"Đăng ký tài xế\" ở màn đăng nhập. Đơn vị vận tải duyệt yêu cầu trên trang quản trị EasyGo, sau đó bạn đăng nhập được. Điều độ cũng có thể cấp tài khoản cho bạn."
+        ],
+        [
+          "Quên mật khẩu?",
+          "Nhờ điều độ của đơn vị cấp lại mật khẩu, sau đó đổi trong Tài khoản > Đổi mật khẩu."
+        ],
+        [
+          "Không thấy lệnh nào?",
+          "Lệnh chỉ hiện khi điều độ giao cho bạn. Kéo màn \"Lệnh của tôi\" xuống để làm mới và chọn bộ lọc \"Tất cả\"."
+        ],
+        [
+          "Khai báo chi phí chuyến thế nào?",
+          "Mở lệnh, chạm \"Khai báo chi phí\", chọn loại, nhập số tiền và đính kèm ảnh hóa đơn."
+        ],
+        [
+          "Không nhận được thông báo?",
+          "Cho phép EasyGo gửi thông báo trong Cài đặt của điện thoại. Bạn luôn xem được thông báo trong app ở mục \"Thông báo\"."
+        ],
+        [
+          "Xoá tài khoản thế nào?",
+          "Tài khoản > Xoá tài khoản, rồi nhập mật khẩu. Xem chính sách quyền riêng tư để biết dữ liệu nào bị xoá và dữ liệu nào đơn vị giữ lại."
+        ]
+      ]
+    }
+  }
+}
