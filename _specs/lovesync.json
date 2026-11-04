@@ -1,0 +1,142 @@
+{
+  "slug": "lovesync",
+  "name": "LoveSync",
+  "developer": "Nhat Nguyen (NHT Solutions)",
+  "email": "solutionsnht@gmail.com",
+  "updated": "2026-11-04",
+  "accent": "#c43d64",
+  "summary": {
+    "en": "LoveSync stores the dates, cycle notes, milestones and memories you add so you and your partner can see them on both phones. We never sell your data.",
+    "vi": "LoveSync lưu ngày kỷ niệm, chu kỳ, cột mốc và kỷ niệm bạn thêm vào để hai bạn cùng xem trên cả hai điện thoại. Chúng tôi không bán dữ liệu của bạn."
+  },
+  "privacy": {
+    "en": [
+      [
+        "Overview",
+        "LoveSync is a private space for couples to save relationship dates, cycle information, milestones, memories, and reminders. It is published by Nhat Nguyen (NHT Solutions). This policy explains the data LoveSync processes and the controls available to you."
+      ],
+      [
+        "Data we process",
+        "Account information such as your email, display name, profile photo, and authentication identifier (from Google or Apple sign-in through Firebase Authentication). Relationship data such as your relationship start date, pairing status, milestones, reminder settings, and shared streaks. Cycle information you choose to log, including dates, typical cycle length, period length, and notes. Memories you create, including photos, titles, notes, dates, favorite status, and any location text you enter. Notification tokens used to deliver reminders, plus limited request and security logs such as IP address and request metadata."
+      ],
+      [
+        "Guest mode",
+        "Guest data remains on your device. If you later sign in, the app uploads that guest data to your LoveSync account so it can be saved and synchronized."
+      ],
+      [
+        "How we use data",
+        "We use data only to provide LoveSync features, synchronize your account, connect your chosen partner, calculate reminders and cycle estimates, deliver notifications, secure the service, diagnose failures, and respond to support or deletion requests. There are no ads and no tracking."
+      ],
+      [
+        "Service providers and sharing",
+        "LoveSync does not sell personal data. We use Firebase Authentication for sign-in and Firebase Cloud Messaging for notifications. Our infrastructure hosting providers process data only to operate LoveSync. Data may also be disclosed when required by law or to protect users and the service."
+      ],
+      [
+        "Storage and security",
+        "Account data is stored on LoveSync servers and transmitted over encrypted HTTPS connections. Guest data is stored locally on your device until you sign in or clear it."
+      ],
+      [
+        "Retention and deletion",
+        "We keep account data while your account is active. You can permanently delete the account in the app under Profile > Delete account, or request deletion at https://lovesync-api.nhtsolutions.store/account-deletion. Deletion removes the account and its profile, cycle, milestone, memory, uploaded media, notification, and authentication data, except information we must retain for legal, fraud-prevention, or security reasons."
+      ],
+      [
+        "Children",
+        "LoveSync is not directed to children under 13. We do not knowingly collect personal data from children under 13."
+      ],
+      [
+        "Contact",
+        "Questions about privacy or your data: solutionsnht@gmail.com."
+      ]
+    ],
+    "vi": [
+      [
+        "Tổng quan",
+        "LoveSync là không gian riêng tư để các cặp đôi lưu ngày kỷ niệm, thông tin chu kỳ, cột mốc, kỷ niệm và lời nhắc, do Nhat Nguyen (NHT Solutions) phát hành. Chính sách này giải thích dữ liệu LoveSync xử lý và các quyền kiểm soát của bạn."
+      ],
+      [
+        "Dữ liệu được xử lý",
+        "Thông tin tài khoản như email, tên hiển thị, ảnh đại diện và mã định danh xác thực (từ đăng nhập Google hoặc Apple qua Firebase Authentication). Dữ liệu mối quan hệ như ngày bắt đầu, trạng thái ghép đôi, cột mốc, cài đặt lời nhắc và chuỗi chia sẻ. Thông tin chu kỳ do bạn nhập, gồm ngày, độ dài chu kỳ, số ngày hành kinh và ghi chú. Kỷ niệm do bạn tạo, gồm ảnh, tiêu đề, ghi chú, ngày, trạng thái yêu thích và nội dung vị trí bạn tự nhập. Mã thiết bị để gửi thông báo cùng nhật ký yêu cầu và bảo mật giới hạn như địa chỉ IP và metadata của request."
+      ],
+      [
+        "Chế độ khách",
+        "Dữ liệu khách được giữ trên thiết bị. Khi bạn đăng nhập, ứng dụng tải dữ liệu khách lên tài khoản LoveSync để lưu và đồng bộ."
+      ],
+      [
+        "Mục đích sử dụng",
+        "Dữ liệu chỉ được dùng để cung cấp tính năng LoveSync, đồng bộ tài khoản, kết nối người yêu do bạn chọn, tính lời nhắc và dự đoán chu kỳ, gửi thông báo, bảo vệ dịch vụ, chẩn đoán lỗi và xử lý yêu cầu hỗ trợ hoặc xóa dữ liệu. Không quảng cáo, không theo dõi."
+      ],
+      [
+        "Nhà cung cấp dịch vụ và chia sẻ",
+        "LoveSync không bán dữ liệu cá nhân. Chúng tôi dùng Firebase Authentication để đăng nhập và Firebase Cloud Messaging để gửi thông báo. Nhà cung cấp hạ tầng chỉ xử lý dữ liệu để vận hành LoveSync. Dữ liệu cũng có thể được cung cấp khi pháp luật yêu cầu hoặc để bảo vệ người dùng và dịch vụ."
+      ],
+      [
+        "Lưu trữ và bảo mật",
+        "Dữ liệu tài khoản được lưu trên máy chủ LoveSync và truyền qua kết nối HTTPS được mã hóa. Dữ liệu khách nằm trên thiết bị cho đến khi bạn đăng nhập hoặc xóa dữ liệu đó."
+      ],
+      [
+        "Thời gian lưu và xóa dữ liệu",
+        "Dữ liệu được lưu khi tài khoản còn hoạt động. Bạn có thể xóa vĩnh viễn trong ứng dụng tại Hồ sơ > Xóa tài khoản, hoặc gửi yêu cầu tại https://lovesync-api.nhtsolutions.store/account-deletion. Việc xóa bao gồm tài khoản, hồ sơ, chu kỳ, cột mốc, kỷ niệm, tệp đã tải lên, thông báo và dữ liệu xác thực liên quan, trừ thông tin cần giữ vì yêu cầu pháp lý, phòng chống gian lận hoặc bảo mật."
+      ],
+      [
+        "Trẻ em",
+        "LoveSync không dành cho trẻ em dưới 13 tuổi và không cố ý thu thập dữ liệu cá nhân của trẻ em dưới 13 tuổi."
+      ],
+      [
+        "Liên hệ",
+        "Câu hỏi về quyền riêng tư hoặc dữ liệu: solutionsnht@gmail.com."
+      ]
+    ]
+  },
+  "support": {
+    "en": {
+      "intro": "Need help with LoveSync? Email solutionsnht@gmail.com and we usually reply within two working days. Please include your phone model and what you were doing when the problem happened.",
+      "faq": [
+        [
+          "Can I use LoveSync without an account?",
+          "Yes. Tap \"Try without an account\" on the sign-in screen. Your data stays on this phone; when you sign in later, it is uploaded to your account."
+        ],
+        [
+          "How do I connect with my partner?",
+          "Both of you sign in, then open Profile. One person shows the pairing QR code or code, and the other scans or enters it."
+        ],
+        [
+          "How do I sign in?",
+          "Use Sign in with Apple (iPhone and iPad) or Continue with Google."
+        ],
+        [
+          "I don't get reminders.",
+          "Check that notifications for LoveSync are on in your phone's Settings, and that the reminder is turned on in the app."
+        ],
+        [
+          "How do I delete my account?",
+          "Open Profile > Delete account and type DELETE to confirm. This permanently deletes your account, cycles, content and photos. You can also request deletion at https://lovesync-api.nhtsolutions.store/account-deletion."
+        ]
+      ]
+    },
+    "vi": {
+      "intro": "Cần hỗ trợ với LoveSync? Gửi email tới solutionsnht@gmail.com, chúng tôi thường trả lời trong hai ngày làm việc. Vui lòng ghi dòng máy và bạn đang làm gì khi gặp lỗi.",
+      "faq": [
+        [
+          "Dùng LoveSync không cần tài khoản được không?",
+          "Được. Chọn \"Dùng thử không cần tài khoản\" ở màn hình đăng nhập. Dữ liệu nằm trên điện thoại này; khi đăng nhập sau, dữ liệu sẽ được tải lên tài khoản của bạn."
+        ],
+        [
+          "Làm sao ghép đôi với người yêu?",
+          "Cả hai cùng đăng nhập rồi mở Hồ sơ. Một người hiện mã QR hoặc mã ghép đôi, người kia quét hoặc nhập mã."
+        ],
+        [
+          "Đăng nhập bằng gì?",
+          "Đăng nhập bằng Apple (iPhone, iPad) hoặc Tiếp tục với Google."
+        ],
+        [
+          "Tôi không nhận được lời nhắc.",
+          "Kiểm tra thông báo của LoveSync đã bật trong Cài đặt của điện thoại và lời nhắc đã bật trong ứng dụng."
+        ],
+        [
+          "Làm sao xóa tài khoản?",
+          "Mở Hồ sơ > Xóa tài khoản và gõ DELETE để xác nhận. Tài khoản, chu kỳ, nội dung và ảnh sẽ bị xóa vĩnh viễn. Bạn cũng có thể gửi yêu cầu tại https://lovesync-api.nhtsolutions.store/account-deletion."
+        ]
+      ]
+    }
+  }
+}
