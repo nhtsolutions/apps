@@ -3,7 +3,7 @@
   "name": "WandAura",
   "developer": "Nhat Nguyen (NHT Solutions)",
   "email": "solutionsnht@gmail.com",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "accent": "#C73E70",
   "summary": {
     "en": "WandAura keeps the trips, itinerary, expenses, photos and saved posts you and your partner add, so both of your phones show the same shared book. A trip is public only if you share it in Community, and then without payers, personal items, notes or exact dates. No ads, no tracking, and we never sell your data.",
@@ -37,7 +37,7 @@
       ],
       [
         "Who processes it",
-        "We do not sell or share personal data for advertising. Data is stored and processed by our service providers only to run WandAura: Google Firebase (Authentication and Cloud Firestore, Singapore region), Cloudflare (Workers, KV and D1 for photos, link previews, Community, the web spreadsheet, edit history and backups) and Expo (delivering push notifications). Data may also be disclosed when required by law."
+        "We do not sell or share personal data for advertising. Data is stored and processed by our service providers only to run WandAura: Google Firebase (Authentication and Cloud Firestore, Singapore region), Microsoft Azure (our server in the United States, which keeps photos, link previews, Community, the web spreadsheet, edit history and backups), Cloudflare (passes requests from older app versions on to that server; the copy of data it held before 14 November 2026 is kept for at most 30 days in case we need to restore it, then deleted) and Expo (delivering push notifications). Data may also be disclosed when required by law."
       ],
       [
         "Storage and security",
@@ -83,7 +83,7 @@
       ],
       [
         "Ai xử lý dữ liệu",
-        "Chúng tôi không bán hay chia sẻ dữ liệu cá nhân cho quảng cáo. Dữ liệu được lưu và xử lý bởi các nhà cung cấp dịch vụ chỉ để vận hành WandAura: Google Firebase (Authentication và Cloud Firestore, khu vực Singapore), Cloudflare (Workers, KV và D1 cho ảnh, ảnh xem trước của link, Cộng đồng, trang bảng tính, lịch sử sửa và bản sao lưu) và Expo (gửi thông báo đẩy). Dữ liệu cũng có thể được cung cấp khi pháp luật yêu cầu."
+        "Chúng tôi không bán hay chia sẻ dữ liệu cá nhân cho quảng cáo. Dữ liệu được lưu và xử lý bởi các nhà cung cấp dịch vụ chỉ để vận hành WandAura: Google Firebase (Authentication và Cloud Firestore, khu vực Singapore), Microsoft Azure (máy chủ của chúng tôi ở Hoa Kỳ, lưu ảnh, ảnh xem trước của link, Cộng đồng, trang bảng tính, lịch sử sửa và bản sao lưu), Cloudflare (chuyển tiếp yêu cầu của các bản app cũ tới máy chủ đó; bản sao dữ liệu Cloudflare giữ từ trước ngày 14/11/2026 được giữ tối đa 30 ngày để khôi phục khi cần, rồi bị xoá) và Expo (gửi thông báo đẩy). Dữ liệu cũng có thể được cung cấp khi pháp luật yêu cầu."
       ],
       [
         "Lưu trữ và bảo mật",
