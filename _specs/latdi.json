@@ -1,0 +1,142 @@
+{
+  "slug": "latdi",
+  "name": "Lật Đi!",
+  "developer": "Nhat Nguyen (NHT Solutions)",
+  "email": "solutionsnht@gmail.com",
+  "updated": "2026-11-26",
+  "accent": "#FF2E7E",
+  "summary": {
+    "en": "Lật Đi! collects no personal data. Player names, decks and settings stay on your phone and are never sent to us or anyone else.",
+    "vi": "Lật Đi! không thu thập dữ liệu cá nhân. Tên người chơi, bộ bài và cài đặt chỉ nằm trên điện thoại của bạn, không gửi cho chúng tôi hay bất kỳ ai."
+  },
+  "privacy": {
+    "en": [
+      [
+        "Who we are",
+        "Lật Đi! is an offline party card game for groups of friends (truth-or-dare prompts, duels, timed mini-games and house rules), published by Nhat Nguyen (NHT Solutions). This policy covers the Lật Đi! apps for iPhone and Android."
+      ],
+      [
+        "What stays on the device",
+        "The player names you type for a game, the decks you pick, house rules you add, your language and sound settings, and whether you confirmed you are 18 or older for the 18+ deck are stored only on your device. We never receive this information and the app works fully offline."
+      ],
+      [
+        "What we do not collect",
+        "The app has no accounts and does not ask for an email address, phone number, photos, location, contacts or advertising identifier. It does not use the camera or microphone. There are no ads, and no analytics, tracking or advertising SDKs."
+      ],
+      [
+        "Purchases",
+        "Every deck is included for free. The app has no in-app purchases and does not connect to any payment service."
+      ],
+      [
+        "Age",
+        "The app is meant for ages 16 and up. One deck (Couples) is meant for adults and asks you to confirm you are 18 or older before it can be switched on; that answer is stored only on your device. We do not knowingly collect personal information from anyone, including children."
+      ],
+      [
+        "Sharing",
+        "We do not sell, rent or share any data, because we do not collect any."
+      ],
+      [
+        "Deleting data",
+        "Uninstalling the app deletes everything it stored on your device."
+      ],
+      [
+        "Pictures",
+        "The illustrations were made with AI image tools in advance. The app does not use AI or send anything to an AI service while you play."
+      ],
+      [
+        "Changes",
+        "If this policy changes, we will update this page and change the date above."
+      ]
+    ],
+    "vi": [
+      [
+        "Chúng tôi là ai",
+        "Lật Đi! là game bài tiệc chơi offline cho hội bạn (thật hay thách, đấu tay đôi, minigame đếm giờ, luật nhà), do Nhat Nguyen (NHT Solutions) phát hành. Chính sách này áp dụng cho Lật Đi! trên iPhone và Android."
+      ],
+      [
+        "Dữ liệu lưu trên máy",
+        "Tên người chơi bạn nhập cho ván, các bộ bài bạn chọn, luật nhà bạn thêm, cài đặt ngôn ngữ và âm thanh, và việc bạn đã xác nhận đủ 18 tuổi cho bộ 18+ chỉ được lưu trên thiết bị. Chúng tôi không nhận các dữ liệu này; app chạy hoàn toàn offline."
+      ],
+      [
+        "Không thu thập",
+        "App không có tài khoản, không hỏi email, số điện thoại, ảnh, vị trí, danh bạ hay mã quảng cáo; không dùng camera và micro. Không quảng cáo, không SDK phân tích, theo dõi hay quảng cáo."
+      ],
+      [
+        "Mua hàng",
+        "Tất cả bộ bài đều miễn phí. App không có mua hàng trong app và không kết nối dịch vụ thanh toán nào."
+      ],
+      [
+        "Độ tuổi",
+        "App dành cho người từ 16 tuổi. Một bộ bài (Đôi lứa) dành cho người lớn và hỏi bạn xác nhận đủ 18 tuổi trước khi bật; câu trả lời chỉ lưu trên máy. Chúng tôi không thu thập thông tin cá nhân của bất kỳ ai, kể cả trẻ em."
+      ],
+      [
+        "Chia sẻ",
+        "Chúng tôi không bán, cho thuê hay chia sẻ dữ liệu nào, vì chúng tôi không thu thập dữ liệu."
+      ],
+      [
+        "Xóa dữ liệu",
+        "Gỡ app sẽ xóa toàn bộ dữ liệu app đã lưu trên máy."
+      ],
+      [
+        "Hình minh họa",
+        "Tranh minh họa được tạo sẵn bằng công cụ AI tạo ảnh. App không dùng AI hay gửi gì tới dịch vụ AI khi bạn chơi."
+      ],
+      [
+        "Thay đổi",
+        "Khi chính sách thay đổi, chúng tôi cập nhật trang này và đổi ngày ở trên."
+      ]
+    ]
+  },
+  "support": {
+    "en": {
+      "intro": "Questions, a bug, or a card that reads wrong? Email us and we usually reply within two working days.",
+      "faq": [
+        [
+          "How do I play?",
+          "Pick one or more decks, type everyone's names, then pass the phone around. Tap the card to flip to the next one. Mini-game cards have a timer: tap it to start."
+        ],
+        [
+          "What happens when someone loses a card?",
+          "They do a forfeit. Tap \"Draw a forfeit\" on the card and the app picks one: sing a line, do an accent, a 10-second dance, a compliment and so on."
+        ],
+        [
+          "Does it need the internet?",
+          "No. All cards and pictures are inside the app and work offline."
+        ],
+        [
+          "Is there a subscription or in-app purchase?",
+          "No. Every deck is included for free, with no ads."
+        ],
+        [
+          "Why does the Couples deck ask my age?",
+          "It has more personal questions meant for adults, so it asks you to confirm you are 18 or older before it can be switched on."
+        ]
+      ]
+    },
+    "vi": {
+      "intro": "Có câu hỏi, gặp lỗi hoặc thấy lá bài nào đọc chưa ổn? Gửi email cho chúng tôi, thường trả lời trong hai ngày làm việc.",
+      "faq": [
+        [
+          "Chơi thế nào?",
+          "Chọn một hoặc nhiều bộ bài, nhập tên cả bàn rồi chuyền tay điện thoại. Chạm vào lá bài để lật lá tiếp theo. Lá minigame có đồng hồ: chạm để bắt đầu đếm."
+        ],
+        [
+          "Thua thì sao?",
+          "Người thua làm một thử thách. Bấm \"Rút thử thách\" trên lá bài, app sẽ chọn một: hát một câu, nói giọng vùng khác, nhảy 10 giây, khen người bên cạnh…"
+        ],
+        [
+          "Có cần mạng không?",
+          "Không. Toàn bộ lá bài và hình đều nằm trong app, chơi offline được."
+        ],
+        [
+          "Có thuê bao hay mua hàng trong app không?",
+          "Không. Tất cả bộ bài đều miễn phí, không quảng cáo."
+        ],
+        [
+          "Sao bộ Đôi lứa lại hỏi tuổi?",
+          "Bộ này có câu hỏi riêng tư hơn, dành cho người lớn, nên app hỏi bạn xác nhận đủ 18 tuổi trước khi bật."
+        ]
+      ]
+    }
+  }
+}
