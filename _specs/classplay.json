@@ -1,0 +1,110 @@
+{
+  "slug": "classplay",
+  "name": "ClassPlay",
+  "developer": "Nhat Nguyen (NHT Solutions)",
+  "email": "classplay79@gmail.com",
+  "updated": "2026-11-26",
+  "accent": "#19354a",
+  "summary": {
+    "en": "The ClassPlay iPhone app uses your ClassPlay account (name, email, learning progress) only to run the service. No ads, no tracking, and speaking practice is recognised on the phone. The full policy is at classplay.study/privacy.",
+    "vi": "Ứng dụng ClassPlay trên iPhone chỉ dùng tài khoản ClassPlay của bạn (tên, email, tiến độ học) để vận hành dịch vụ. Không quảng cáo, không theo dõi, phần luyện nói được nhận dạng ngay trên điện thoại. Chính sách đầy đủ ở classplay.study/privacy."
+  },
+  "privacy": {
+    "en": [
+      [
+        "Who we are",
+        "ClassPlay (classplay.study) is an English-learning service for Vietnamese students, published by Nhat Nguyen (NHT Solutions). This page covers the ClassPlay iPhone app; the full ClassPlay privacy policy is at https://classplay.study/privacy and applies to the app as well."
+      ],
+      [
+        "What the app uses",
+        "Your account: email address, display name and role, entered by you or received from Sign in with Apple (Apple may give us a private relay email). Your learning: lesson progress, answers, streak, coins, classes you join and their assignments. These are stored on the ClassPlay server so your progress is the same on the web and on the phone."
+      ],
+      [
+        "Speaking practice",
+        "The microphone and speech recognition are used only in the Speaking tab, while you practise. Speech is recognised on the device; the recording is not uploaded or stored by ClassPlay. Only the words you said and the sounds to practise are kept, on the phone."
+      ],
+      [
+        "What we do not do",
+        "No ads, no third-party analytics or tracking SDKs, no advertising identifier. We do not sell personal data or share it with advertisers."
+      ],
+      [
+        "Deleting your account",
+        "In the app: Me tab, Delete account, Delete permanently. The account and its data are deleted from the server immediately. You can also write to us and we will delete it for you."
+      ]
+    ],
+    "vi": [
+      [
+        "Chúng tôi là ai",
+        "ClassPlay (classplay.study) là dịch vụ học tiếng Anh cho học sinh Việt Nam, do Nhat Nguyen (NHT Solutions) phát hành. Trang này nói về ứng dụng ClassPlay trên iPhone; chính sách quyền riêng tư đầy đủ của ClassPlay ở https://classplay.study/privacy và cũng áp dụng cho ứng dụng."
+      ],
+      [
+        "Ứng dụng dùng dữ liệu gì",
+        "Tài khoản: email, tên hiển thị và vai trò, do bạn nhập hoặc nhận từ Đăng nhập bằng Apple (Apple có thể chỉ đưa email ẩn danh). Việc học: tiến độ bài, câu trả lời, chuỗi ngày, xu, lớp bạn tham gia và bài được giao. Những dữ liệu này lưu trên máy chủ ClassPlay để tiến độ trên web và trên điện thoại là một."
+      ],
+      [
+        "Luyện nói",
+        "Micro và nhận dạng giọng nói chỉ được dùng ở tab Luyện nói, khi bạn đang luyện. Giọng nói được nhận dạng ngay trên máy; ClassPlay không tải lên và không lưu bản ghi âm. Chỉ câu bạn đã nói và các âm cần luyện được giữ lại, trên điện thoại."
+      ],
+      [
+        "Chúng tôi không làm gì",
+        "Không quảng cáo, không dùng SDK phân tích hay theo dõi của bên thứ ba, không dùng mã định danh quảng cáo. Chúng tôi không bán dữ liệu cá nhân và không chia sẻ cho nhà quảng cáo."
+      ],
+      [
+        "Xoá tài khoản",
+        "Trong ứng dụng: tab Tôi, Xoá tài khoản, Xoá vĩnh viễn. Tài khoản và dữ liệu bị xoá khỏi máy chủ ngay lập tức. Bạn cũng có thể viết thư cho chúng tôi để được xoá giúp."
+      ]
+    ]
+  },
+  "support": {
+    "en": {
+      "intro": "Questions, a problem with a lesson, or a class code that does not work? Write to classplay79@gmail.com and we will reply within two working days. Please say which screen you were on and, if you can, add a screenshot.",
+      "faq": [
+        [
+          "How do I sign in?",
+          "On the first screen choose Sign in with Apple, or \"Dùng email và mật khẩu\" (email and password) for an account made on classplay.study. The same account works on the web and in the app."
+        ],
+        [
+          "I forgot my password.",
+          "Reset it on https://classplay.study/login with \"Quên mật khẩu\" (Forgot password); a code is sent to your email."
+        ],
+        [
+          "How do I join my teacher's class?",
+          "Class tab, \"Vào lớp bằng mã\" (Join with a code), then type the code your teacher gave you. Assignments and due dates appear in the same tab."
+        ],
+        [
+          "Speaking practice does not hear me.",
+          "Allow the microphone and speech recognition for ClassPlay in Settings > Privacy & Security. If you cannot speak right now, tap \"Không nói được lúc này\" and type the sentence instead."
+        ],
+        [
+          "How do I delete my account?",
+          "Me tab, scroll to the bottom, \"Xoá tài khoản\" (Delete account), then \"Xoá vĩnh viễn\" (Delete permanently). Everything is deleted from the server at once and cannot be restored."
+        ]
+      ]
+    },
+    "vi": {
+      "intro": "Có câu hỏi, bài học bị lỗi hay mã lớp không vào được? Viết thư về classplay79@gmail.com, chúng tôi trả lời trong hai ngày làm việc. Hãy cho biết bạn đang ở màn nào và gửi kèm ảnh chụp màn hình nếu được.",
+      "faq": [
+        [
+          "Đăng nhập thế nào?",
+          "Ở màn đầu tiên chọn Đăng nhập bằng Apple, hoặc \"Dùng email và mật khẩu\" nếu bạn đã có tài khoản trên classplay.study. Một tài khoản dùng chung cho web và ứng dụng."
+        ],
+        [
+          "Tôi quên mật khẩu.",
+          "Đặt lại ở https://classplay.study/login, bấm \"Quên mật khẩu\"; mã sẽ được gửi về email của bạn."
+        ],
+        [
+          "Vào lớp của cô giáo thế nào?",
+          "Tab Lớp, \"Vào lớp bằng mã\", rồi nhập mã cô giáo đưa. Bài được giao và hạn nộp hiện ngay trong tab đó."
+        ],
+        [
+          "Luyện nói không nghe thấy tôi.",
+          "Cho phép ClassPlay dùng micro và nhận dạng giọng nói trong Cài đặt > Quyền riêng tư & Bảo mật. Nếu lúc này không nói được, bấm \"Không nói được lúc này\" và gõ câu thay vì nói."
+        ],
+        [
+          "Xoá tài khoản thế nào?",
+          "Tab Tôi, kéo xuống cuối, \"Xoá tài khoản\", rồi \"Xoá vĩnh viễn\". Mọi dữ liệu bị xoá khỏi máy chủ ngay và không khôi phục được."
+        ]
+      ]
+    }
+  }
+}
