@@ -3,11 +3,12 @@
   "name": "StorySprout",
   "developer": "Nhat Nguyen (NHT Solutions)",
   "email": "solutionsnht@gmail.com",
-  "updated": "2026-10-21",
+  "updated": "2026-11-27",
   "accent": "#527A59",
   "summary": {
     "en": "StorySprout collects no personal data. Your child's progress stays on the device and is never sent to us or anyone else.",
-    "vi": "StorySprout không thu thập dữ liệu cá nhân. Tiến độ của bé chỉ nằm trên thiết bị, không gửi cho chúng tôi hay bất kỳ ai."
+    "vi": "StorySprout không thu thập dữ liệu cá nhân. Tiến độ của bé chỉ nằm trên thiết bị, không gửi cho chúng tôi hay bất kỳ ai.",
+    "es": "StorySprout no recopila datos personales. El progreso de tu hijo se queda en el dispositivo y nunca se envía a nosotros ni a nadie."
   },
   "privacy": {
     "en": [
@@ -25,7 +26,7 @@
       ],
       [
         "Purchases",
-        "The current version has no in-app purchases and does not connect to any payment service. If purchases are added in a future version, they will be processed by the app store you downloaded StorySprout from, this policy will be updated before that version is released, and learning data will still not be shared."
+        "StorySprout has one optional in-app purchase, \"All books\", which opens every book. It is sold and processed only by the App Store or Google Play: we never see a name, card or account. The app asks the store on the device whether the purchase exists so it can open the books, also offline once checked. We run no server and keep no purchase records. Buying and restoring are only in the grown-up area, behind the question."
       ],
       [
         "Children's privacy",
@@ -63,7 +64,7 @@
       ],
       [
         "Mua hàng",
-        "Phiên bản hiện tại không có mua hàng trong app và không kết nối dịch vụ thanh toán nào. Nếu sau này có mua hàng, giao dịch do cửa hàng ứng dụng nơi bạn tải StorySprout xử lý, chính sách này sẽ được cập nhật trước khi phát hành phiên bản đó, và dữ liệu học vẫn không được chia sẻ."
+        "StorySprout có một gói mua tùy chọn trong app, \"Trọn bộ sách\", để mở tất cả sách. Gói này chỉ do App Store hoặc Google Play bán và xử lý: chúng tôi không thấy tên, thẻ hay tài khoản của bạn. App hỏi cửa hàng ngay trên thiết bị xem đã mua chưa để mở sách, kể cả khi offline sau lần kiểm tra. Chúng tôi không có máy chủ và không lưu hồ sơ mua hàng. Mua và khôi phục chỉ có trong khu phụ huynh, sau câu hỏi."
       ],
       [
         "Quyền riêng tư của trẻ em",
@@ -85,6 +86,44 @@
         "Thay đổi",
         "Khi chính sách thay đổi, chúng tôi cập nhật trang này và chính sách trong app, đồng thời đổi ngày ở trên."
       ]
+    ],
+    "es": [
+      [
+        "Quiénes somos",
+        "StorySprout es una app de libros ilustrados interactivos en inglés para niños de 6 a 8 años, publicada por Nhat Nguyen (NHT Solutions). Esta política se aplica a la app StorySprout."
+      ],
+      [
+        "Lo que se queda en el dispositivo",
+        "El progreso de aprendizaje (qué escenas y actividades se hicieron, si una respuesta fue correcta al primer intento, si se usó una pista), los stickers, el historial de repaso y los ajustes se guardan en una base de datos local en el dispositivo. Nunca recibimos esta información y la app funciona sin conexión."
+      ],
+      [
+        "Lo que no recopilamos",
+        "La app no tiene cuentas y no pide nombre, fecha de nacimiento, correo, fotos, voz, ubicación, contactos ni identificador publicitario. No usa la cámara ni el micrófono. No hay anuncios ni SDK de analítica, rastreo o publicidad."
+      ],
+      [
+        "Compras",
+        "StorySprout tiene una compra opcional dentro de la app, \"Todos los libros\", que abre todos los libros. Solo la venden y procesan el App Store o Google Play: nunca vemos un nombre, una tarjeta ni una cuenta. La app pregunta a la tienda en el dispositivo si la compra existe para abrir los libros, también sin conexión una vez comprobada. No tenemos servidores ni guardamos registros de compras. Comprar y restaurar solo están en la zona para adultos, detrás de la pregunta."
+      ],
+      [
+        "Privacidad de los niños",
+        "StorySprout está hecha para niños. No recopilamos a sabiendas información personal de nadie, incluidos menores de 13 años, y nada en la app envía datos fuera del dispositivo. La zona infantil no tiene enlaces externos, compras ni anuncios. La zona para adultos está detrás de una pregunta sencilla; esa pregunta evita que los niños entren por accidente y no es una verificación de edad."
+      ],
+      [
+        "Compartir",
+        "No vendemos, alquilamos ni compartimos datos, porque no recopilamos ninguno."
+      ],
+      [
+        "Borrar datos",
+        "Zona para adultos > \"Reset progress on this device\" borra todos los datos de aprendizaje del dispositivo. Desinstalar la app también los borra."
+      ],
+      [
+        "Ilustraciones y voz",
+        "Las ilustraciones se hicieron con herramientas de imagen con IA y la narración es una voz generada por computadora (Kokoro TTS). Ambas se crearon de antemano; la app no usa IA ni envía nada a un servicio de IA mientras tu hijo juega."
+      ],
+      [
+        "Cambios",
+        "Si esta política cambia, actualizaremos esta página y la política dentro de la app, y cambiaremos la fecha de arriba."
+      ]
     ]
   },
   "support": {
@@ -93,19 +132,31 @@
       "faq": [
         [
           "Does StorySprout need the internet?",
-          "No. All 12 stories, pictures and audio are inside the app and work offline."
+          "No. All 30 books, pictures and audio are inside the app and work offline. Buying or restoring \"All books\" needs a connection once."
         ],
         [
           "How do I open the grown-up area?",
-          "Tap \"For parents\" on the welcome screen and answer the question."
+          "Tap \"Grown-ups\" at the top of the screen and answer the question."
+        ],
+        [
+          "Which books are free?",
+          "Books 1, 2 and 19 and one side story are free. The one-time \"All books\" purchase opens the other 32 stories. There is no subscription and there are no ads."
+        ],
+        [
+          "I reinstalled the app or use another device. How do I get \"All books\" back?",
+          "Grown-up area > All books > Restore purchases, signed in with the same Apple ID or Google account. On iPhone and iPad, Family Sharing members get it too."
+        ],
+        [
+          "I downloaded StorySprout on iPhone or iPad before version 1.3.0.",
+          "Thank you for being with us from the start: every book stays open for you at no cost, including the new ones."
+        ],
+        [
+          "How do I ask for a refund?",
+          "Purchases are handled by Apple or Google. Ask at reportaproblem.apple.com or in your Google Play order history."
         ],
         [
           "How do I start over?",
-          "Grown-up area > Reset progress on this device. This clears progress, stickers and review history."
-        ],
-        [
-          "Is there a subscription or in-app purchase?",
-          "No. This version includes all 12 stories with no purchases and no ads."
+          "Grown-up area > Reset progress on this device. This clears progress, stickers and review history; a purchase stays."
         ]
       ]
     },
@@ -114,19 +165,64 @@
       "faq": [
         [
           "StorySprout có cần mạng không?",
-          "Không. Cả 12 câu chuyện, hình và âm thanh có sẵn trong app, chạy offline."
+          "Không. Cả 30 cuốn sách, hình và âm thanh có sẵn trong app, chạy offline. Mua hoặc khôi phục \"Trọn bộ sách\" cần mạng một lần."
         ],
         [
           "Vào khu phụ huynh thế nào?",
-          "Chạm \"For parents\" ở màn hình chào rồi trả lời câu hỏi."
+          "Chạm \"Grown-ups\" ở đầu màn hình rồi trả lời câu hỏi."
+        ],
+        [
+          "Sách nào miễn phí?",
+          "Sách 1, 2, 19 và một truyện phụ miễn phí. Gói mua một lần \"Trọn bộ sách\" mở 32 câu chuyện còn lại. Không thuê bao, không quảng cáo."
+        ],
+        [
+          "Tôi cài lại app hoặc dùng máy khác. Làm sao lấy lại \"Trọn bộ sách\"?",
+          "Khu phụ huynh > Trọn bộ sách > Khôi phục giao dịch, đăng nhập cùng Apple ID hoặc tài khoản Google. Trên iPhone và iPad, thành viên Chia sẻ trong gia đình cũng dùng được."
+        ],
+        [
+          "Tôi đã tải StorySprout trên iPhone/iPad trước bản 1.3.0.",
+          "Cảm ơn bạn đã đồng hành từ đầu: mọi cuốn sách vẫn mở miễn phí cho bạn, kể cả sách mới."
+        ],
+        [
+          "Muốn hoàn tiền thì làm sao?",
+          "Giao dịch do Apple hoặc Google xử lý. Yêu cầu tại reportaproblem.apple.com hoặc trong lịch sử đơn hàng Google Play."
         ],
         [
           "Muốn học lại từ đầu?",
-          "Khu phụ huynh > Xóa tiến độ trên máy. Thao tác này xóa tiến độ, sticker và lịch sử ôn tập."
+          "Khu phụ huynh > Xóa tiến độ trên máy. Thao tác này xóa tiến độ, sticker và lịch sử ôn tập; gói đã mua vẫn giữ."
+        ]
+      ]
+    },
+    "es": {
+      "intro": "¿Preguntas, un error o una palabra que suena mal? Escríbenos; solemos responder en dos días hábiles.",
+      "faq": [
+        [
+          "¿StorySprout necesita internet?",
+          "No. Los 30 libros, las ilustraciones y el audio están dentro de la app y funcionan sin conexión. Comprar o restaurar \"Todos los libros\" necesita conexión una vez."
         ],
         [
-          "Có thuê bao hay mua trong app không?",
-          "Không. Bản này có đủ 12 câu chuyện, không mua hàng, không quảng cáo."
+          "¿Cómo entro a la zona para adultos?",
+          "Toca \"Grown-ups\" arriba en la pantalla y responde la pregunta."
+        ],
+        [
+          "¿Qué libros son gratis?",
+          "Los libros 1, 2 y 19 y un cuento corto son gratis. La compra única \"Todos los libros\" abre los otros 32 cuentos. No hay suscripción ni anuncios."
+        ],
+        [
+          "Reinstalé la app o uso otro dispositivo. ¿Cómo recupero \"Todos los libros\"?",
+          "Zona para adultos > Todos los libros > Restaurar compras, con el mismo Apple ID o la misma cuenta de Google. En iPhone y iPad, los miembros de En familia también la tienen."
+        ],
+        [
+          "Descargué StorySprout en iPhone o iPad antes de la versión 1.3.0.",
+          "Gracias por estar con nosotros desde el principio: todos los libros siguen abiertos para ti sin costo, también los nuevos."
+        ],
+        [
+          "¿Cómo pido un reembolso?",
+          "Las compras las gestionan Apple o Google. Pídelo en reportaproblem.apple.com o en tu historial de pedidos de Google Play."
+        ],
+        [
+          "¿Cómo empiezo de nuevo?",
+          "Zona para adultos > Reset progress on this device. Borra el progreso, los stickers y el historial de repaso; la compra se mantiene."
         ]
       ]
     }
