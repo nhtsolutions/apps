@@ -3,29 +3,33 @@
   "name": "ClassPlay",
   "developer": "Nhat Nguyen (NHT Solutions)",
   "email": "classplay79@gmail.com",
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "accent": "#19354a",
   "summary": {
-    "en": "The ClassPlay iPhone app uses your ClassPlay account (name, email, learning progress) only to run the service. No ads, no tracking, and speaking practice is recognised on the phone. The full policy is at classplay.study/privacy.",
-    "vi": "Ứng dụng ClassPlay trên iPhone chỉ dùng tài khoản ClassPlay của bạn (tên, email, tiến độ học) để vận hành dịch vụ. Không quảng cáo, không theo dõi, phần luyện nói được nhận dạng ngay trên điện thoại. Chính sách đầy đủ ở classplay.study/privacy."
+    "en": "The ClassPlay app uses your ClassPlay account (name, email, learning progress, what you create in it) only to run the service. No ads, no tracking, and a learner's speaking practice is recognised on the device. The full policy is at classplay.study/privacy.",
+    "vi": "Ứng dụng ClassPlay chỉ dùng tài khoản ClassPlay của bạn (tên, email, tiến độ học, nội dung bạn tạo) để vận hành dịch vụ. Không quảng cáo, không theo dõi, phần luyện nói của học viên được nhận dạng ngay trên máy. Chính sách đầy đủ ở classplay.study/privacy."
   },
   "privacy": {
     "en": [
       [
         "Who we are",
-        "ClassPlay (classplay.study) is an English-learning service for Vietnamese students, published by Nhat Nguyen (NHT Solutions). This page covers the ClassPlay iPhone app; the full ClassPlay privacy policy is at https://classplay.study/privacy and applies to the app as well."
+        "ClassPlay (classplay.study) is an English-learning service for Vietnamese students and teachers, published by Nhat Nguyen (NHT Solutions). This page covers the ClassPlay app for iPhone and iPad; the full ClassPlay privacy policy is at https://classplay.study/privacy and applies to the app as well."
       ],
       [
         "What the app uses",
-        "Your account: email address, display name and role, entered by you or received from Sign in with Apple (Apple may give us a private relay email). Your learning: lesson progress, answers, streak, coins, classes you join and their assignments. These are stored on the ClassPlay server so your progress is the same on the web and on the phone."
+        "Your account: email address, display name, role and profile picture, entered by you or received from Sign in with Apple or Google (Apple may give us a private relay email). Your learning: lesson progress, answers and writing, streak, coins, saved words and reading positions, classes you join and their assignments. For teachers: classes, attendance, lessons you write and the audio you record for them. For guardians: the email a teacher invited and the messages exchanged with the teacher. These are stored on the ClassPlay server so the web and the app stay the same."
       ],
       [
         "Speaking practice",
-        "The microphone and speech recognition are used only in the Speaking tab, while you practise. Speech is recognised on the device; the recording is not uploaded or stored by ClassPlay. Only the words you said and the sounds to practise are kept, on the phone."
+        "A learner's microphone and speech recognition are used only while practising speaking. Speech is recognised on the device; the recording is not uploaded or stored by ClassPlay. Only the words you said and the sounds to practise are kept, on the device. A teacher's lesson recording is uploaded only when the teacher saves it to a lesson."
+      ],
+      [
+        "Camera",
+        "The camera is used only to scan a live room's QR code; no picture is stored or sent. The code can also be typed."
       ],
       [
         "What we do not do",
-        "No ads, no third-party analytics or tracking SDKs, no advertising identifier. We do not sell personal data or share it with advertisers."
+        "No ads, no third-party analytics or tracking SDKs, no advertising identifier. We do not sell personal data or share it with advertisers. Google is used only when you choose Sign in with Google."
       ],
       [
         "Deleting your account",
@@ -35,19 +39,23 @@
     "vi": [
       [
         "Chúng tôi là ai",
-        "ClassPlay (classplay.study) là dịch vụ học tiếng Anh cho học sinh Việt Nam, do Nhat Nguyen (NHT Solutions) phát hành. Trang này nói về ứng dụng ClassPlay trên iPhone; chính sách quyền riêng tư đầy đủ của ClassPlay ở https://classplay.study/privacy và cũng áp dụng cho ứng dụng."
+        "ClassPlay (classplay.study) là dịch vụ học tiếng Anh cho học sinh và giáo viên Việt Nam, do Nhat Nguyen (NHT Solutions) phát hành. Trang này nói về ứng dụng ClassPlay trên iPhone và iPad; chính sách quyền riêng tư đầy đủ của ClassPlay ở https://classplay.study/privacy và cũng áp dụng cho ứng dụng."
       ],
       [
         "Ứng dụng dùng dữ liệu gì",
-        "Tài khoản: email, tên hiển thị và vai trò, do bạn nhập hoặc nhận từ Đăng nhập bằng Apple (Apple có thể chỉ đưa email ẩn danh). Việc học: tiến độ bài, câu trả lời, chuỗi ngày, xu, lớp bạn tham gia và bài được giao. Những dữ liệu này lưu trên máy chủ ClassPlay để tiến độ trên web và trên điện thoại là một."
+        "Tài khoản: email, tên hiển thị, vai trò và ảnh đại diện, do bạn nhập hoặc nhận từ Đăng nhập bằng Apple hay Google (Apple có thể chỉ đưa email ẩn danh). Việc học: tiến độ bài, câu trả lời và bài viết, chuỗi ngày, xu, từ đã lưu và chỗ đang đọc, lớp bạn tham gia và bài được giao. Với giáo viên: lớp, điểm danh, bài soạn và bản ghi âm cho bài. Với phụ huynh: email được giáo viên mời và tin nhắn trao đổi với giáo viên. Những dữ liệu này lưu trên máy chủ ClassPlay để web và ứng dụng là một."
       ],
       [
         "Luyện nói",
-        "Micro và nhận dạng giọng nói chỉ được dùng ở tab Luyện nói, khi bạn đang luyện. Giọng nói được nhận dạng ngay trên máy; ClassPlay không tải lên và không lưu bản ghi âm. Chỉ câu bạn đã nói và các âm cần luyện được giữ lại, trên điện thoại."
+        "Micro và nhận dạng giọng nói của học viên chỉ được dùng khi đang luyện nói. Giọng nói được nhận dạng ngay trên máy; ClassPlay không tải lên và không lưu bản ghi âm. Chỉ câu bạn đã nói và các âm cần luyện được giữ lại, trên máy. Bản ghi âm của giáo viên chỉ được tải lên khi giáo viên lưu vào bài."
+      ],
+      [
+        "Camera",
+        "Camera chỉ dùng để quét mã QR của phòng Live; không lưu và không gửi ảnh nào. Bạn cũng có thể nhập mã."
       ],
       [
         "Chúng tôi không làm gì",
-        "Không quảng cáo, không dùng SDK phân tích hay theo dõi của bên thứ ba, không dùng mã định danh quảng cáo. Chúng tôi không bán dữ liệu cá nhân và không chia sẻ cho nhà quảng cáo."
+        "Không quảng cáo, không dùng SDK phân tích hay theo dõi của bên thứ ba, không dùng mã định danh quảng cáo. Chúng tôi không bán dữ liệu cá nhân và không chia sẻ cho nhà quảng cáo. Google chỉ được dùng khi bạn chọn Đăng nhập bằng Google."
       ],
       [
         "Xoá tài khoản",
@@ -61,7 +69,7 @@
       "faq": [
         [
           "How do I sign in?",
-          "On the first screen choose Sign in with Apple, or \"Dùng email và mật khẩu\" (email and password) for an account made on classplay.study. The same account works on the web and in the app."
+          "On the first screen choose Sign in with Apple, Sign in with Google, or \"Dùng email và mật khẩu\" (email and password) for an account made on classplay.study. The same account works on the web and in the app."
         ],
         [
           "I forgot my password.",
@@ -70,6 +78,10 @@
         [
           "How do I join my teacher's class?",
           "Class tab, \"Vào lớp bằng mã\" (Join with a code), then type the code your teacher gave you. Assignments and due dates appear in the same tab."
+        ],
+        [
+          "How do I join a live quiz?",
+          "On the first screen tap \"Vào phòng / Học thử\", or in the app Me tab, \"Vào phòng bằng QR\". Type the 6-digit room code or scan the QR code on the teacher's screen."
         ],
         [
           "Speaking practice does not hear me.",
@@ -86,7 +98,7 @@
       "faq": [
         [
           "Đăng nhập thế nào?",
-          "Ở màn đầu tiên chọn Đăng nhập bằng Apple, hoặc \"Dùng email và mật khẩu\" nếu bạn đã có tài khoản trên classplay.study. Một tài khoản dùng chung cho web và ứng dụng."
+          "Ở màn đầu tiên chọn Đăng nhập bằng Apple, Đăng nhập bằng Google, hoặc \"Dùng email và mật khẩu\" nếu bạn đã có tài khoản trên classplay.study. Một tài khoản dùng chung cho web và ứng dụng."
         ],
         [
           "Tôi quên mật khẩu.",
@@ -95,6 +107,10 @@
         [
           "Vào lớp của cô giáo thế nào?",
           "Tab Lớp, \"Vào lớp bằng mã\", rồi nhập mã cô giáo đưa. Bài được giao và hạn nộp hiện ngay trong tab đó."
+        ],
+        [
+          "Vào cuộc đua trực tiếp thế nào?",
+          "Ở màn đầu tiên bấm \"Vào phòng / Học thử\", hoặc trong ứng dụng vào tab Tôi, \"Vào phòng bằng QR\". Nhập mã phòng 6 số hoặc quét mã QR trên màn hình của giáo viên."
         ],
         [
           "Luyện nói không nghe thấy tôi.",
